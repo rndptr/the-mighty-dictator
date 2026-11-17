@@ -1,0 +1,1 @@
+This application Uses Whistle by Cactus Compute, Inc., licensed under the Apache License, Version 2.0. Model source: https://huggingface.co/Cactus-Compute/whistle
